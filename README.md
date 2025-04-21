@@ -4,7 +4,7 @@
 
 1) Install go 1.23+ as a prerequisite.
 2) Clone this repo in local.
-3) Run go install. After that run `webtrace` in CLI:
+3) Run `go install`. After that run `webtrace` in CLI:
    a) If it shows webtrace CLI application description then follow Usage 1
    b) If it shows command does not exist then follow Usage 2
 
